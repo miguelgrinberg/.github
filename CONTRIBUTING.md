@@ -22,8 +22,8 @@ will convert the discussion into an issue.
 
 If you are interested in contributing a change to this project, please first discuss the
 change you wish to make with the maintainer in an issue. Once the maintainer accepts the
-issue and allows you to work it, feel free to submit a pull request. Pull requests that are
-submitted without a previous discussion may be closed at the maintainer's discretion.
+issue and allows you to work on it, feel free to submit a pull request. Pull requests that
+are submitted without a previous discussion may be closed at the maintainer's discretion.
 
 **Notes for contributors that use Generative AI tools**:
 - Do not submit code that has been generated with LLMs or other generative AI tools. You are
