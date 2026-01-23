@@ -18,10 +18,12 @@ will convert the discussion into an issue.
 - Do not submit bug reports that are generated with LLMs or other generative AI tools.
 - Do not respond to questions you receive on your report with LLM-generated text.
 
-## I want to make change
+## I want to make a change
 
 If you are interested in contributing a change to this project, please first discuss the
-change you wish to make with the maintainer.
+change you wish to make with the maintainer in an issue. Once the maintainer accepts the
+issue and allows you to work it, feel free to submit a pull request. Pull requests that are
+submitted before a previous discussion may be closed at the maintainer's discretion.
 
 **Notes for contributors that use Generative AI tools**:
 - Do not submit code that has been generated with LLMs or other generative AI tools. You are
