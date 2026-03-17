@@ -2,33 +2,25 @@
 
 First of all, thank you for your interest in contributing to this project!
 
-Please note we have a [Code of Conduct](https://github.com/miguelgrinberg/.github/blob/main/CODE_OF_CONDUCT.md),
-please follow it in all your interactions with the project.
+Please note that there is a [Code of Conduct](https://github.com/miguelgrinberg/.github/blob/main/CODE_OF_CONDUCT.md), so please follow it in all your interactions with the maintainer, other contributors and users.
+
+## I want to use LLMs, coding agents, or other generative AI tools to contribute
+
+The maintainer considers himself an [AI hater](https://anthonymoser.github.io/writing/ai/haterdom/2025/08/26/i-am-an-ai-hater.html), so to the extent that this can be controlled or enforced, he wishes to keep all of his projects free of LLM-generated code.
+
+So please:
+
+- Do not submit code that has been generated with LLMs, coding agents, or other generative AI tools.
+- Do not paste LLM generated text in issues, pull request descriptions, discussions, comments or replies.
 
 ## I have found a bug
 
-If you are <u>completely sure</u> you have found a bug in this project, then please write
-an issue describing the problem and the maintainer will review it.
+If you are completely sure that you have found a bug in this project, then please write an issue describing the problem and the maintainer will review it.
 
-If you are not sure if you have found a bug, then you can ask a question on the discussion
-forum. If later it is determined that your problem is caused by a bug, then the maintainer
-will convert the discussion into an issue.
+If you are not sure if you are experiencing a bug or a problem in your own code, then you can ask in the discussion forum. If later it is determined that the cause of the problem is a bug, then the maintainer will convert the discussion to an issue.
 
-**Notes for contributors that use Generative AI tools**:
-- Do not submit bug reports that are generated with LLMs or other generative AI tools.
-- Do not respond to questions you receive on your report with LLM-generated text.
+## I want to contribute a change
 
-## I want to make a change
+If you are interested in contributing a change to this project, please first introduce the change you wish to make to the maintainer in an issue. Pull requests that are submitted without a previous discussion in an issue may be closed at the maintainer's discretion.
 
-If you are interested in contributing a change to this project, please first discuss the
-change you wish to make with the maintainer in an issue. Once the maintainer accepts the
-issue and allows you to work on it, feel free to submit a pull request. Pull requests that
-are submitted without a previous discussion may be closed at the maintainer's discretion.
-
-**Notes for contributors that use Generative AI tools**:
-- Do not submit code that has been generated with LLMs or other generative AI tools. You are
-  welcome to use any tools you like to create your pull request, but if the code or
-  description do not appear to come from a human contributor then the pull request will be
-  automatically closed.
-- Do not respond to review questions you receive on your pull request with LLM-generated
-  text.
+Once the maintainer accepts your proposed change and allows you to work on it, feel free to submit a pull request.
